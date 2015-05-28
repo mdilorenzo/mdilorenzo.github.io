@@ -4,18 +4,18 @@
     max-width: 800px;
     padding: 0 15px;
 }
-/* Make header sizes less ridiculous */
+/* Adjust header sizes */
 h1 {
-    font-size: 32px;
+    font-size: 34px;
 }
 h2 {
-    font-size: 26px;
+    font-size: 28px;
 }
 h3 {
-    font-size: 22px;
+    font-size: 24px;
 }
 h4 {
-    font-size: 18px;
+    font-size: 20px;
     margin-top: 1.25em;
 }
 
